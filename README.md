@@ -1,4 +1,4 @@
-# resywatcher
+# ResyWatcher
 
 discord bot that checks resy for reservation openings and sends a ping when something matching your criteria becomes available.
 
