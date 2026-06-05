@@ -1,9 +1,3 @@
-"""Resy API client — read-only operations only.
-
-We never call /3/details or /3/book. The point of this app is to *notify*
-the user when a slot opens up; the user does the actual booking themselves
-via the Resy web/app. Keeps us clean re: ToS and the NYC reservation-resale law.
-"""
 from __future__ import annotations
 
 import logging
