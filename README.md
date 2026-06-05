@@ -2,7 +2,7 @@
 
 discord bot that checks resy for reservation openings and sends a ping when something matching your criteria becomes available.
 
-## Features
+## features
 
 - search for restaurants
 - check current availability
@@ -10,7 +10,7 @@ discord bot that checks resy for reservation openings and sends a ping when some
 - get discord notifications when a matching slot opens
 - pause, resume, or remove watches
 
-## Commands
+## commands
 
 - `/search query:<text>` — search for a restaurant
 - `/find venue:<name|id> party_size:N date:YYYY-MM-DD` — check availability
@@ -20,7 +20,7 @@ discord bot that checks resy for reservation openings and sends a ping when some
 - `/resume watch_id:<id>`
 - `/stop watch_id:<id>`
 
-## Example
+## example
 
 ```text
 /watch venue:Carbone party_size:2 date:2026-05-15..2026-05-30 time_window:19:00-21:30
